@@ -1,0 +1,11 @@
+{
+    "name": "Alterialis",
+    "version": "0.1.0",
+    "description": "Alterialis is a bot.",
+    "main": "main.js",
+    "author": "Kraio#1218",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "winston": "^3.2.1"
+    }
+}
